@@ -1,0 +1,7 @@
+Dataset,Rows,Columns,Missing Values,Duplicate Rows
+Subscribers,15000,14,11199,0
+Titles,9000,21,1966,0
+Watch History,650000,10,0,0
+Ratings,130000,5,0,0
+Reviews,110000,7,0,0
+Watchlist,65000,5,0,0
